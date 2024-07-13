@@ -14,10 +14,9 @@ import Card from "react-bootstrap/Card";
 import imggg from "../public/group.jpg";
 import Image from "next/image";
 
-import "bootstrap/dist/css/bootstrap.css";
-
 export default function Home() {
   return (
+    <>
     <div className="web1">
       <div className="Navbar">
         <nav
@@ -595,5 +594,6 @@ export default function Home() {
         </div>
       </footer>
     </div>
+      </>
   );
 }
