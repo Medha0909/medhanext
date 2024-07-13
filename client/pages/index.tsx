@@ -1,4 +1,5 @@
 import React from "react";
+import "bootstrap/dist/css/bootstrap.css";
 import { FaSearch } from "react-icons/fa";
 import { FaCompass } from "react-icons/fa";
 import { BiSolidBookmark } from "react-icons/bi";
