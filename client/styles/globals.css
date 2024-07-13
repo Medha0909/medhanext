@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 .web1{
     overflow: hidden;
     max-width:100%;
@@ -335,9 +331,7 @@ border: 1px solid #8064A2;
 .ic1{
     color: #F7F5F9;
 }
-.aaa{
-    visibility: hidden;
-}
+
 .cardabc{
     position: absolute;
     top:800px;
